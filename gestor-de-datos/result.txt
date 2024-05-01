@@ -1,0 +1,4 @@
+...file C:\Users\danie\Documents\Universidad\6to\Arqui\ETL\CODE\gestor-de-datos\result\csv.json processed
+...file C:\Users\danie\Documents\Universidad\6to\Arqui\ETL\CODE\gestor-de-datos\result\xml.json processed
+...file C:\Users\danie\Documents\Universidad\6to\Arqui\ETL\CODE\gestor-de-datos\result\htm.json processed
+...file C:\Users\danie\Documents\Universidad\6to\Arqui\ETL\CODE\gestor-de-datos\result\txt.json processed
