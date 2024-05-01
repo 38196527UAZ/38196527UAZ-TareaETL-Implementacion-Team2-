@@ -3,7 +3,7 @@
 #-------------------------------------------------------------------------
 # Archivo: txt_transformer.py
 # Capitulo: Flujo de Datos
-# Autor(es): Perla Velasco & Yonathan Mtz. & Jorge Solís
+# Autor(es): 
 # Version: 1.0.0 Noviembre 2022
 # Descripción:
 #
