@@ -3,8 +3,8 @@
 #-------------------------------------------------------------------------
 # Archivo: txt_transformer.py
 # Capitulo: Flujo de Datos
-# Autor(es): 
-# Version: 1.0.0 Noviembre 2022
+# Autor(es): Alexis Tadeo Sanchez Arguello & Adolfo Andres Hernandez Romero & Juan Daniel Sanchez Macias & Eloy Valdez Muruato
+# Version: 1.0.0 Abril 2024
 # Descripción:
 #
 #   Este archivo define un procesador de datos que se encarga de transformar
