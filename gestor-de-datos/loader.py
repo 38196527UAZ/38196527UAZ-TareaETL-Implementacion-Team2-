@@ -4,7 +4,9 @@
 # Archivo: loader.py
 # Capitulo: Flujo de Datos
 # Autor(es): Perla Velasco & Yonathan Mtz. & Jorge Solís
-# Version: 1.0.0 Noviembre 2022
+# Version: 1.0.0 Abril 2024
+# Autor(es): Alexis Tadeo Sanchez Arguello & Adolfo Andres Hernandez Romero & Juan Daniel Sanchez Macias & Eloy Valdez Muruato
+# Version: 1.0.1 Abril 2024
 # Descripción:
 #
 #   Este archivo define el punto de ejecución del Microservicio
